@@ -14,6 +14,7 @@ import android.net.Uri;
  * @author wangxin
  *
  */
+ //cacacaca
 public class DBProvider extends ContentProvider {
 	
 	private static final int NEWS		=	1;
